@@ -12,7 +12,7 @@ module.exports = class MessageListener extends Listener {
     if (message.author.bot || message.channel.type !== 'text') return
 
     const prefix = getPrefix(message)
-    if (!prefix) return
+    if (!message.content.toLowerCase().startsWith(prefix)) return
 
     const args = message.content.slice(prefix.length).trim().split('/ +/g')
     const cmd = args.shift().toLowerCase()
