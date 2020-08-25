@@ -14,7 +14,7 @@ module.exports = class MessageListener extends Listener {
     const prefix = getPrefix(message)
     if (!message.content.toLowerCase().startsWith(prefix)) return
 
-    const args = message.content.slice(prefix.length).trim().split('/ +/g')
+    const args = message.content.slice(prefix.length).trim().split(/ +/g)
     const cmd = args.shift().toLowerCase()
     const command = this.commands.find(({ name, aliases }) => name === cmd || aliases.includes(cmd))
 
