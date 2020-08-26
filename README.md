@@ -2,10 +2,10 @@
 This is currently the boilerplate that we at Gorillas-Team use in most of our bots.
 
 ## Table of contents
-- [How to use this template](#how-to-use-this-template)
-- [Installing your bot dependencies](#installing-yor-bot-dependencies)
-- [Running your bot](#running-your-bot)
-- [Support](#support)
+- [How to use this template](#📃-how-to-use-this-template)
+- [Installing your bot dependencies](#🤖-installing-yor-bot-dependencies)
+- [Running your bot](#🔥-running-your-bot)
+- [Support](#📖-support)
 
 # 📃 How to use this template
 First you need to click in **Use this template** buttom.
