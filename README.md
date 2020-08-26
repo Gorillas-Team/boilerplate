@@ -37,23 +37,23 @@ Open your **Terminal**, if you are on windows try **cmd** or **PowerShell** and 
 
 Like this.
 
-Now lets open your bot, type `cd [Bot repo name]`, inside the folder run `yarn` command, if you don't have yarn installed see [here.](https://yarnpkg.com/getting-started/install)
+Now let's open your bot, type `cd [Bot repo name]`, inside the folder run `yarn` command, if you don't have yarn installed see [here.](https://yarnpkg.com/getting-started/install)
 
 # 🔥 Running your bot
 
-Fist lets edit the **.env.example** file. rename it to **.env**, now lets edit the variables.
+First let's edit the **.env.example** file. rename it to **.env**, now let's edit the variables.
 
 ![image](https://user-images.githubusercontent.com/36780964/91264442-00c7a680-e747-11ea-8a56-078644a7bad8.png)
 
 Done!
 
-You dont really need the **`LAVALINK_NODES`** and **`MONGO_URI`** is just to example.
+You don't really need the **`LAVALINK_NODES`** and **`MONGO_URI`**, is just example.
 
 Now open your console and type `yarn dev`
 
 ![image](https://user-images.githubusercontent.com/36780964/91266432-a418bb80-e747-11ea-8450-fd96823f659a.png)
 
-Yor really cool bot is now running lets test
+Your really cool bot is now running, let's go test!
 
 ![image](https://user-images.githubusercontent.com/36780964/91266545-e7732a00-e747-11ea-8804-0ec74a40a972.png)
 
