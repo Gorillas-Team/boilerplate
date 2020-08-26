@@ -7,7 +7,7 @@ This is currently the boilerplate that we at Gorillas-Team use in most of our bo
 - [Running your bot](#-running-your-bot)
 - [Support](#-support)
 
-# 📃 How to use this template
+## 📃 How to use this template
 First you need to click in **Use this template** buttom.
 
 ![image](https://user-images.githubusercontent.com/36780964/91257832-3e293580-e741-11ea-89b4-7e0e94eb7bc3.png)
@@ -22,7 +22,7 @@ Click in **Create repository from template** buttom.
 
 Done! now let's go to code time.
 
-# 🤖 Installing your bot dependencies
+## 🤖 Installing your bot dependencies
 Now let's clone the repo of your cool bot.
 
 ![image](https://user-images.githubusercontent.com/36780964/91258500-dc69cb00-e742-11ea-9a92-1e2befbe04e5.png)
@@ -39,7 +39,7 @@ Like this.
 
 Now let's open your bot, type `cd [Bot repo name]`, inside the folder run `yarn` command, if you don't have yarn installed see [here.](https://yarnpkg.com/getting-started/install)
 
-# 🔥 Running your bot
+## 🔥 Running your bot
 
 First let's edit the **.env.example** file. rename it to **.env**, now let's edit the variables.
 
@@ -57,5 +57,5 @@ Your really cool bot is now running, let's go test!
 
 ![image](https://user-images.githubusercontent.com/36780964/91266545-e7732a00-e747-11ea-8804-0ec74a40a972.png)
 
-# 📖 Support
+## 📖 Support
 If you do not understand something or have any questions, please join our [Gorillas's Team Discord server](https://discord.gg/t87qh4y)
