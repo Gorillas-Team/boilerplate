@@ -3,7 +3,7 @@ module.exports = class Command {
     this.client = client
 
     this.name = options.name
-    this.aliases = options.aliases || 'No aliases.'
+    this.aliases = options.aliases || []
     this.description = options.description || 'No description.'
     this.usage = options.usage || 'No usage.'
     this.category = options.category || 'General'
