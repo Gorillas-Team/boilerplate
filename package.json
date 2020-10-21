@@ -2,7 +2,7 @@
   "name": "boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "BSD-3",
   "scripts": {
     "start": "node .",
     "dev": "nodemon",

@@ -59,3 +59,6 @@ Your really cool bot is now running, let's go test!
 
 ## 📖 Support
 If you do not understand something or have any questions, please join our [Gorillas's Team Discord server](https://discord.gg/t87qh4y)
+
+## 📚 License
+If you are going to use the code in this boilerplate, you will need to provide full credits under our [license](https://github.com/Gorillas-Team/boilerplate/blob/master/LICENSE).
